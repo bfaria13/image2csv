@@ -2,14 +2,13 @@
 
 
 
-##### Esse tutorial eh dividido em tres partes:
-
+##### Esse tutorial é dividido em três partes:
 
 
 A) Imagem para csv;
 
-B) Varias imagens para csv;
+B) Várias imagens para csv;
 
-C) Arquivo csv com o caminho das imagens;
+C) Arquivo csv com o caminho das imagens.
 
-Parte extra: usar esses aquivos como inputs para ML/DL.
+Parte extra: usar esses arquivos como inputs para ML/DL.
